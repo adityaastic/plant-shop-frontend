@@ -1,0 +1,1165 @@
+[{
+  "_id": {
+    "$oid": "64b78979f06369e50e0ad7a8"
+  },
+  "name": "MSurya",
+  "level": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b78b87bbe498cb23c8ede5"
+  },
+  "name": "Clothing",
+  "parentCategory": {
+    "$oid": "64b78979f06369e50e0ad7a8"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b78b87bbe498cb23c8ede8"
+  },
+  "name": "mens_kurta",
+  "parentCategory": {
+    "$oid": "64b78b87bbe498cb23c8ede5"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c22ced54db484b7444a7d0"
+  },
+  "name": "Women",
+  "level": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c22ced54db484b7444a7d3"
+  },
+  "name": "Clothing",
+  "parentCategory": {
+    "$oid": "64c22ced54db484b7444a7d0"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c3c8e3ed0456aa00b84e55"
+  },
+  "name": "men_jeans",
+  "parentCategory": {
+    "$oid": "64b78b87bbe498cb23c8ede5"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c3d15aaea9ad8ae73822ba"
+  },
+  "name": "women_jeans",
+  "parentCategory": {
+    "$oid": "64c22ced54db484b7444a7d3"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c3d1a5aea9ad8ae738241e"
+  },
+  "name": "lengha_choli",
+  "parentCategory": {
+    "$oid": "64c22ced54db484b7444a7d3"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c3d1f7aea9ad8ae738256a"
+  },
+  "name": "top",
+  "parentCategory": {
+    "$oid": "64c22ced54db484b7444a7d3"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c3d318aea9ad8ae7382896"
+  },
+  "name": "shirt",
+  "parentCategory": {
+    "$oid": "64b78b87bbe498cb23c8ede5"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c4999088610fa8b9ad684a"
+  },
+  "name": "women",
+  "level": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "name": "clothing",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684a"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c4999188610fa8b9ad6850"
+  },
+  "name": "saree",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65101dadc6bbdc68db509fcf"
+  },
+  "name": "men",
+  "level": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65101dadc6bbdc68db509fd2"
+  },
+  "name": "clothing",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fcf"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65101daec6bbdc68db509fd5"
+  },
+  "name": "t-shirts",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fd2"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65102110c6bbdc68db50a011"
+  },
+  "name": "top",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fd2"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6510262ad826df790b1d5a02"
+  },
+  "name": "women_dress",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fd2"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65102767d826df790b1d5a2f"
+  },
+  "name": "t-shirts",
+  "parentCategory": {
+    "$oid": "65102767d826df790b1d5a2c"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a6ef24edc9601600ae3f"
+  },
+  "name": "top-wear",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fcf"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a6f024edc9601600ae42"
+  },
+  "name": "ethnic",
+  "parentCategory": {
+    "$oid": "6527a6ef24edc9601600ae3f"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6528e9692b203ebb16734c3b"
+  },
+  "name": "t-shirts",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65662405e236bac470c6da3d"
+  },
+  "name": "saree",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fd2"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65662bf41044923be44a8884"
+  },
+  "name": "lengha_choli",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fd2"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568dd2f5a6ea634249292be"
+  },
+  "name": "beverages",
+  "level": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568dd305a6ea634249292c1"
+  },
+  "name": "energy & soft drinks",
+  "parentCategory": {
+    "$oid": "6568dd2f5a6ea634249292be"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568dd325a6ea634249292c4"
+  },
+  "name": "cold drinks",
+  "parentCategory": {
+    "$oid": "6568dd305a6ea634249292c1"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656a455b6503936bef302b23"
+  },
+  "name": "top",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656b03b27f434a4013d4c5eb"
+  },
+  "level": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656b03b27f434a4013d4c5ee"
+  },
+  "parentCategory": {
+    "$oid": "656b03b27f434a4013d4c5eb"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656b03b27f434a4013d4c5f1"
+  },
+  "parentCategory": {
+    "$oid": "656b03b27f434a4013d4c5ee"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656cf7c140c39ebf3567d524"
+  },
+  "name": "kids",
+  "level": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656cf7c240c39ebf3567d527"
+  },
+  "name": "clothing",
+  "parentCategory": {
+    "$oid": "656cf7c140c39ebf3567d524"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656cf7c240c39ebf3567d52a"
+  },
+  "name": "top",
+  "parentCategory": {
+    "$oid": "656cf7c240c39ebf3567d527"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f9c240b1c3d3eb08e8fe9"
+  },
+  "name": "tea & coffee",
+  "parentCategory": {
+    "$oid": "6568dd2f5a6ea634249292be"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f9c250b1c3d3eb08e8fec"
+  },
+  "name": "tea & coffee",
+  "parentCategory": {
+    "$oid": "656f9c240b1c3d3eb08e8fe9"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f9c7e0b1c3d3eb08e9158"
+  },
+  "name": "juices",
+  "parentCategory": {
+    "$oid": "6568dd2f5a6ea634249292be"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f9c7e0b1c3d3eb08e915a"
+  },
+  "name": "juices",
+  "parentCategory": {
+    "$oid": "6568dd2f5a6ea634249292be"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f9c7f0b1c3d3eb08e915e"
+  },
+  "name": "fresh fruits",
+  "parentCategory": {
+    "$oid": "656f9c7e0b1c3d3eb08e9158"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f9c7f0b1c3d3eb08e9160"
+  },
+  "name": "fresh fruits",
+  "parentCategory": {
+    "$oid": "656f9c7e0b1c3d3eb08e915a"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f9c8b0b1c3d3eb08e9171"
+  },
+  "name": "cold drinks",
+  "parentCategory": {
+    "$oid": "656f9c7e0b1c3d3eb08e9158"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fa17040ba76d2d3b8e8da"
+  },
+  "name": "fruits & veggies",
+  "level": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fa17140ba76d2d3b8e8dd"
+  },
+  "name": "fruits",
+  "parentCategory": {
+    "$oid": "656fa17040ba76d2d3b8e8da"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fa17240ba76d2d3b8e8e0"
+  },
+  "name": "fresh fruits",
+  "parentCategory": {
+    "$oid": "656fa17140ba76d2d3b8e8dd"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fa53c40ba76d2d3b8e9aa"
+  },
+  "name": "women_dress",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fa57440ba76d2d3b8e9bf"
+  },
+  "name": "fruits",
+  "parentCategory": {
+    "$oid": "6568dd2f5a6ea634249292be"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fa57540ba76d2d3b8e9c2"
+  },
+  "name": "fresh fruits",
+  "parentCategory": {
+    "$oid": "656fa57440ba76d2d3b8e9bf"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fa5e340ba76d2d3b8ea02"
+  },
+  "name": "saree",
+  "parentCategory": {
+    "$oid": "65102767d826df790b1d5a2c"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fa66b40ba76d2d3b8ea2c"
+  },
+  "name": "fresh fruit juice",
+  "parentCategory": {
+    "$oid": "6568dd305a6ea634249292c1"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fa67840ba76d2d3b8ea40"
+  },
+  "name": "fresh fruit juice",
+  "parentCategory": {
+    "$oid": "656f9c7e0b1c3d3eb08e9158"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656faa1040ba76d2d3b8ed7f"
+  },
+  "name": "exotic fruits",
+  "parentCategory": {
+    "$oid": "656fa17140ba76d2d3b8e8dd"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656faa4f40ba76d2d3b8edee"
+  },
+  "name": "berries",
+  "parentCategory": {
+    "$oid": "656fa17140ba76d2d3b8e8dd"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fd041964e6577e217ca75"
+  },
+  "name": "winter fruits",
+  "parentCategory": {
+    "$oid": "656fa17140ba76d2d3b8e8dd"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656fd2af964e6577e217cb55"
+  },
+  "name": "summer fruits",
+  "parentCategory": {
+    "$oid": "656fa17140ba76d2d3b8e8dd"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700503b41c16a813d3f3c4"
+  },
+  "name": "women_dress",
+  "parentCategory": {
+    "$oid": "64c22ced54db484b7444a7d3"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65704e677f20b65ee3e5a128"
+  },
+  "name": "Men_Shirt",
+  "parentCategory": {
+    "$oid": "64b78b87bbe498cb23c8ede5"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658595fab6e276e4dba0cf09"
+  },
+  "name": "accessories",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fcf"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c457d7d465e5bd165f9e9"
+  },
+  "name": "brands",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fcf"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c457e7d465e5bd165f9ec"
+  },
+  "name": "t-shirts",
+  "parentCategory": {
+    "$oid": "658c457d7d465e5bd165f9e9"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65966e89306bf51c1a335bdc"
+  },
+  "name": "cake",
+  "level": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65966e89306bf51c1a335bdf"
+  },
+  "name": "Chocolate",
+  "parentCategory": {
+    "$oid": "65966e89306bf51c1a335bdc"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65966e8a306bf51c1a335be2"
+  },
+  "name": "Luxury Cake",
+  "parentCategory": {
+    "$oid": "65966e89306bf51c1a335bdf"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6598fd35b5dd7fa380024ac8"
+  },
+  "name": "lengha_choli",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8b9a0a8bbe9a85ffaa004"
+  },
+  "name": "Cake",
+  "level": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8b9a1a8bbe9a85ffaa007"
+  },
+  "name": "Classic Cakes",
+  "parentCategory": {
+    "$oid": "65a8b9a0a8bbe9a85ffaa004"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8b9a1a8bbe9a85ffaa00a"
+  },
+  "name": "Vanilla",
+  "parentCategory": {
+    "$oid": "65a8b9a1a8bbe9a85ffaa007"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b08e343e1f37ffaa4f127d"
+  },
+  "name": "blueberry",
+  "parentCategory": {
+    "$oid": "65a8b9a1a8bbe9a85ffaa007"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b08e953e1f37ffaa4f1294"
+  },
+  "name": "Premium Cakes",
+  "parentCategory": {
+    "$oid": "65a8b9a0a8bbe9a85ffaa004"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b08e963e1f37ffaa4f1297"
+  },
+  "name": "Chocolate",
+  "parentCategory": {
+    "$oid": "65b08e953e1f37ffaa4f1294"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b35d054db0df382d5e9582"
+  },
+  "name": "Luxury Cakes",
+  "parentCategory": {
+    "$oid": "65a8b9a0a8bbe9a85ffaa004"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b35d054db0df382d5e9585"
+  },
+  "name": "Caramel Almond",
+  "parentCategory": {
+    "$oid": "65b35d054db0df382d5e9582"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ffb23f026598895dee97"
+  },
+  "name": "women_dress",
+  "parentCategory": {
+    "$oid": "656cf7c240c39ebf3567d527"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cd010eba2fc5894ff28b01"
+  },
+  "name": "women_dress",
+  "parentCategory": {
+    "$oid": "65102767d826df790b1d5a2c"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5bfd760ed13ae575761fa"
+  },
+  "name": "women_dress",
+  "parentCategory": {
+    "$oid": "658595fab6e276e4dba0cf09"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df9be1d5426d55fa3f0ab7"
+  },
+  "name": "Women_saree",
+  "parentCategory": {
+    "$oid": "64c22ced54db484b7444a7d3"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e1e8c9ae2d2726f53ce3f5"
+  },
+  "name": "lengha_choli",
+  "parentCategory": {
+    "$oid": "656cf7c240c39ebf3567d527"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2fff7a12f0b3ff63d105b"
+  },
+  "name": "brands",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684a"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2fff7a12f0b3ff63d105e"
+  },
+  "name": "saree",
+  "parentCategory": {
+    "$oid": "65e2fff7a12f0b3ff63d105b"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e339058ed3a9fda7b2ebb5"
+  },
+  "name": "accessories",
+  "parentCategory": {
+    "$oid": "656cf7c140c39ebf3567d524"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e339068ed3a9fda7b2ebb8"
+  },
+  "name": "top",
+  "parentCategory": {
+    "$oid": "65e339058ed3a9fda7b2ebb5"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f0d698565d5f136fba2a7e"
+  },
+  "name": "Clothing",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fcf"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f0d698565d5f136fba2a81"
+  },
+  "name": "mens_kurta",
+  "parentCategory": {
+    "$oid": "65f0d698565d5f136fba2a7e"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f0d8ce565d5f136fba2aad"
+  },
+  "name": "mens_kurta",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fd2"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1e1dfdb644fa5061146e2"
+  },
+  "name": "top",
+  "parentCategory": {
+    "$oid": "658595fab6e276e4dba0cf09"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f3cf2cdf69e3d641251548"
+  },
+  "name": "t-shirts",
+  "parentCategory": {
+    "$oid": "65e2fff7a12f0b3ff63d105b"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f527cd9202a22fff96805f"
+  },
+  "name": "saree",
+  "parentCategory": {
+    "$oid": "658595fab6e276e4dba0cf09"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6600111253e2fd413f538705"
+  },
+  "name": "top",
+  "parentCategory": {
+    "$oid": "658c457d7d465e5bd165f9e9"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661e652866c5f1cf964245a4"
+  },
+  "name": "Pant",
+  "parentCategory": {
+    "$oid": "64b78b87bbe498cb23c8ede5"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f94ff7359ef28aa3deecb"
+  },
+  "name": "shoes",
+  "parentCategory": {
+    "$oid": "65101dadc6bbdc68db509fcf"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f94ff7359ef28aa3deece"
+  },
+  "name": "sneakers",
+  "parentCategory": {
+    "$oid": "661f94ff7359ef28aa3deecb"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66220d04f63e0da3317b146e"
+  },
+  "name": "women_dress",
+  "parentCategory": {
+    "$oid": "658c457d7d465e5bd165f9e9"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66224f72a150965265b24ffa"
+  },
+  "name": "t-shirt",
+  "parentCategory": {
+    "$oid": "64b78b87bbe498cb23c8ede5"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628f7a72a5e97c43854432e"
+  },
+  "name": "accessories",
+  "parentCategory": {
+    "$oid": "64b78979f06369e50e0ad7a8"
+  },
+  "level": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628f7a72a5e97c438544331"
+  },
+  "name": "watches",
+  "parentCategory": {
+    "$oid": "6628f7a72a5e97c43854432e"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628f9a02a5e97c4385444f0"
+  },
+  "name": "watches",
+  "parentCategory": {
+    "$oid": "65102767d826df790b1d5a2c"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628fa272a5e97c4385445f6"
+  },
+  "name": "watch",
+  "parentCategory": {
+    "$oid": "65102767d826df790b1d5a2c"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628fb302a5e97c438544620"
+  },
+  "name": "watches",
+  "parentCategory": {
+    "$oid": "658595fab6e276e4dba0cf09"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66327d7b244cfe2522848ada"
+  }
+},
+{
+  "_id": {
+    "$oid": "66327de3244cfe2522848adb"
+  }
+},
+{
+  "_id": {
+    "$oid": "66328106889f75fdbd11ac76"
+  },
+  "name": "Kanchipuram silk",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663281d9889f75fdbd11ad0e"
+  },
+  "name": "Banarasi silk",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663282f7889f75fdbd11adb8"
+  },
+  "name": "Soft silk",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66328fae889f75fdbd11b653"
+  },
+  "name": "Fancy silk",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632938b889f75fdbd11b706"
+  },
+  "name": "Pochampally silk",
+  "parentCategory": {
+    "$oid": "64c4999088610fa8b9ad684d"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634003fc818ea25e955f7a2"
+  },
+  "name": "man_dress",
+  "parentCategory": {
+    "$oid": "64b78b87bbe498cb23c8ede5"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637d5d011777ba916abc53d"
+  },
+  "name": "t-shirts",
+  "parentCategory": {
+    "$oid": "656cf7c240c39ebf3567d527"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637d5d511777ba916abc547"
+  },
+  "name": "t-shirts",
+  "parentCategory": {
+    "$oid": "658595fab6e276e4dba0cf09"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637d5e311777ba916abc571"
+  },
+  "name": "saree",
+  "parentCategory": {
+    "$oid": "658c457d7d465e5bd165f9e9"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637d5e611777ba916abc57b"
+  },
+  "name": "lengha_choli",
+  "parentCategory": {
+    "$oid": "658c457d7d465e5bd165f9e9"
+  },
+  "level": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637d60111777ba916abc5ad"
+  },
+  "name": "lengha_choli",
+  "parentCategory": {
+    "$oid": "658595fab6e276e4dba0cf09"
+  },
+  "level": 3,
+  "__v": 0
+}]
